@@ -1,4 +1,3 @@
-hello-world
-===========
-
-I am learning something new
+....
+Some thing about me u say..
+Guilt,jealous,corrupt.
